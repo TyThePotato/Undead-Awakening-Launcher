@@ -1,0 +1,34 @@
+Update Changelog
+
+Version 0.2b
+---
+-AWP Now shoots slower
+-Uzi SMG Now shoots faster
+-Uzi SMG Now has more Ammo
+-Beretta M9 Now shoots slower
+-Combat Knife cooldown is lower
+-New arm model
+-Sniper Tower
+-Modified Ammo Box Texture
+-Now start with no guns, only combat knife
+-Splash Screen
+-WIP Options (Only Fullscreen toggle)
+
+Version 2.0a
+---
+-Added AWP
+-Added P226
+-Added M16A2
+-Added Uzi SMG
+-Added House
+
+Version 1.0a
+---
+-Added AK47
+-Added Beretta M9
+-Added SCAR
+-Added MP5
+-Added Combat Knife
+-Added M4A1
+-Added RPG-7
+-First Version
