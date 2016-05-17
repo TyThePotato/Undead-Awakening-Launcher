@@ -14,7 +14,7 @@ Version 0.2b
 -Splash Screen
 -WIP Options (Only Fullscreen toggle)
 
-Version 2.0a
+Version 0.2a
 ---
 -Added AWP
 -Added P226
@@ -22,7 +22,7 @@ Version 2.0a
 -Added Uzi SMG
 -Added House
 
-Version 1.0a
+Version 0.1a
 ---
 -Added AK47
 -Added Beretta M9
