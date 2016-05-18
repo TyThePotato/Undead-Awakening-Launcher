@@ -1,0 +1,8 @@
+all: Launcher.exe
+Launcher.exe: $(patsubst %.c,obj/%.o,$(wildcard *.c))
+	clang -o $@ $^ -lmingw32 -lSDL2main -lSDL2 -lcurl
+obj/%.o: %.c
+	clang -Wall -g -pipe -I. -c $< -o $@
+clean:
+	@del -f Launcher.exe
+	@del -f .\obj\*.o
